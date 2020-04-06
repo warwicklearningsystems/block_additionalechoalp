@@ -24,7 +24,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2020033101;
+$plugin->version   = 2020040600;
 $plugin->requires  = 2012112900;
 $plugin->component = 'block_additionalechoalp';
 $plugin->cron = 300;
